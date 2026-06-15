@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marvinnitz18
 - 👀 I’m interested in snowbaording and sure ... coding
-- 🌱 I’m currently learning docker
+- 🌱 I’m currently learning k8s
 - 💞️ I’m looking to collaborate on some cool Projects
 - 📫 How to reach me : marvinnitz18@gmail.com
 
